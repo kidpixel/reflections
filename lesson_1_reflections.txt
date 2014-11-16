@@ -1,0 +1,30 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Yes, but it wasn't the easiest to spot.. the text separators are not the easiest to look at.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+The easiest and most obvious answer for me is simply saving time.  Wiping out an entire block of code with a keystroke or to and not having a version is and has been a nightmare. Proper versioning control would be nice.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+PROs: As you say, it's more likely that you'll end up with commits that make sense when looking to pour over the variations of over time.  
+CONs: If you forget, then very large commits will cause a headache, and more logial changes will be clumped together in just one commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Some version control system, like Git, are geared and created for code, while other systems are not.  Google Docs makes no effort to find out if files are conneted through one project and therefore need or try to track across multiple files... it only cares that there ARE files.  Git knows that certain files are connected to each other and therefore was built to track them together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+The log lets you view the history of commits including date, time, author, and description while git diff allows you to compare two individual commits via their IDs.
+
+How might using version control make you more confident to make changes that could break something?
+
+If you made changes that actually did break something and it wasn't the LAST change you made that necessarily broke your project, you could always go back to a past commit version instead of debugging the code that you have, saving time and probably money one day.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+MY NEXT PROJECT/Project2V2!  But i'm sure i'm not done learning this stuff yet. :) 
+
