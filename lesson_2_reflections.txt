@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory has all files where the repository is housed, but the staging area defines WHICH files will be put into the repository.  The repository is the versioning archive for all files which have been added to the staging area.
+
