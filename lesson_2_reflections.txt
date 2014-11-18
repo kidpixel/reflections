@@ -9,3 +9,8 @@ The staging area can be used to check changes vs the repository and your live co
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Adding experimental features or different versions of the game, like a port perhaps?
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help us put what is a command-line interface and set of instructions/results into a graphical representation without taking that leap into a GUI.  It's still pretty confusing without a GUI, but these base commands are very powerful, so I understand why students and instructors alike encourage the use and elearning of command-line only, at least first.
+
