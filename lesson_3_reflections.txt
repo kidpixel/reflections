@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When wouldn't I?  I don't trust my computer or any computer.  I'm just a reboot away from total hardware failure as far as I'm concerned.  Keeping things local is like leaving your front door open in a bad neighborhood.  You're just asking to lose everything inside.
