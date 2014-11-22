@@ -5,3 +5,9 @@ When wouldn't I?  I don't trust my computer or any computer.  I'm just a reboot 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 This sounds like it could be conflict hell if changes were always being done automatically.  Much like when you chose to do commits yourself with one logical change at a time and not having them done automatically, the concept behind pulls feels the same.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - cloning a repository from GitHub TO GitHub
+Clones - cloning repositories either locally or from GitHub to local.
+Branches - a separate line of commits that retain a separate "head" apart from the main.
