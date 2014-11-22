@@ -14,3 +14,12 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams help us put what is a command-line interface and set of instructions/results into a graphical representation without taking that leap into a GUI.  It's still pretty confusing without a GUI, but these base commands are very powerful, so I understand why students and instructors alike encourage the use and elearning of command-line only, at least first.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+PROs: 
+- much less tedious
+- changes that don't conflict with each other are merged with little effort
+
+CONs:
+- not 'smart' enough to know which version is correct
+- still has a manual component which may be tedious
