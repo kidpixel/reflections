@@ -15,3 +15,7 @@ Branches - a separate line of commits that retain a separate "head" apart from t
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work with it offline without having access the remote version while being connected.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+For now, i wouldn't collaborate with anyone else except for may be one or two fellow students i've been working closely with.  For now, I don't know what their knowledge or Git/GitHub is like, and since my own working knowledge of the system is still pretty 'young', i'm afraid collaboration at this point might mess things up more than they help - although i AM willing to try!  
